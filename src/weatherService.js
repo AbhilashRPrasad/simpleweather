@@ -1,6 +1,6 @@
 // unit m = metric
 const getFormattedWeatherData = async (city, units = "m") => {
-  const URL = `http://api.weatherstack.com/current?access_key=cc03f148abf429e857aa03f3a87bbf5f&query=${city}&units=${units}`;
+  const URL = `https://api.weatherstack.com/current?access_key=cc03f148abf429e857aa03f3a87bbf5f&query=${city}&units=${units}`;
 
   const data = await fetch(URL)
     .then((res) => res.json())
