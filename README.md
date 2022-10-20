@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Simple weather App
 npm  install
 npm start
 
