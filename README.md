@@ -9,6 +9,6 @@ Features:
 * Input the required city and press enter to get weather information 
 
 Contribution: This weather app shows current weather information and local time of the given city. 
-API was fetched from weatherstack to show all necessary data.
+API was fetched from weatherstack to show all the necessary data.
 
 Note: Since the given api is limited to http and not https the website could not be hosted but works efficiently on localhost
