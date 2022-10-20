@@ -1,4 +1,4 @@
-# Getting Started with Simple weather App
+# Getting Started with Simple Weather App
 npm  install
 npm start
 
