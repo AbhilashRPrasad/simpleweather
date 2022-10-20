@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 npm  install
 npm start
+
 "Simple-Weather App" 
+
 Features:
 * Dynamic background based on temperature
 * Input the required city and press enter to get weather information 
